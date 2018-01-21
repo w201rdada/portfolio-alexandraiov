@@ -14,7 +14,17 @@ Streaming platforms need to meet minimum guarantees for premium add-ons without 
 
 ## A middle.
 
-The platforms need to create a predictive model that assigns a probability of purchasing these add-ons to each subscriber. With this model, the company can focus on subscribers that are highly likely and reach out to them with attractive offers. Offers can vary from free trials to credits towards the add-ons to targeted emails showing off the best shows on those channels to banner ads for those channels, and more.
+The platforms need to create a predictive model that assigns a probability of purchasing these add-ons to each subscriber. 
+
+Subscriber segmentation is a valuable tool for strategy and this model can help create specific segments. These segments could include:
+“Newcomers” - Subscribers who have never purchased the premium channel but are likely to add it 
+“No Thank You” - Subscribers who have never purchased the premium channel and are unlikely to add it 
+“Come Again” - Subscribers who have purchased the premium channel in the past and are likely to add it again  
+“Never Again” - Subscribers who have purchased the premium channel in the past but are unlikely to add it again  
+“Loyal” - Subscribers who are currently paying for the premium channel and have had it for at least a specific amount of time. This amount of time will be identified by the model
+“Cyclical” - Subscribers who have purchased and removed the premium channel an unusual amount of times. The threshold for an unusual amount will be determined by the model    
+
+Each segment will need a targeted strategy and each strategy will likely be different. For example, No Thank Yous might get an email featuring popular shows on the premium channel but no free trial offers because they are not likely to pay for the channel after the trial. However, Newcomers might benefit from receiving a free trial offer because they will discover content that could encourage them to purchase the channel after the trial is over. The strategies will probably require further analysis themselves, such as identifying shows that Come Agains watched and sending each of them a personalized email that highlights those shows. 
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
