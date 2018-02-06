@@ -10,7 +10,7 @@
 
 Television streaming platforms that carry premium channels, such as HBO, Showtime, and Starz, are contractually obligated to sell a specific amount of premium channel packages. But how do these platforms meet these minimum guarantees without overspending on marketing? They have to be very targeted and focus on specific subscribers that are likely to add these packages. Streaming platforms need to meet minimum guarantees for premium add-ons without overspending on marketing.
 
-Meeting minimum guarantees is essential in order to not breach contracts, which is very important in itself, but it also helps strengthen relationships with premium channels. The streaming landscape is very competitive, and the more channels a platform can offer, the better competitive advantage they will have in this market. It is increasingly crucial that a streaming platform maintains excellent relationships with all channels in order to survive in the industry. 
+Meeting minimum guarantees is essential in order to not breach contracts, which is very important in itself, but it also helps strengthen relationships with premium channels, such as HBO. The streaming landscape is very competitive, and the more channels a platform can offer, the better competitive advantage they will have in this market. Everybody wants to watch the latest episode of Game of Thrones, so a platform that does not offer it will lose subscribers. It is increasingly crucial that a streaming platform maintains excellent relationships with all channels in order to survive in the industry. 
 
 ## A middle.
 
@@ -34,12 +34,12 @@ Subscriber segmentation is a valuable tool for strategy and this model can help 
 
 Each segment will need a targeted strategy and each strategy will likely be different. For example, No Thank Yous might get an email featuring popular shows on the premium channel but no free trial offers because they are not likely to pay for the channel after the trial. However, Newcomers might benefit from receiving a free trial offer because they will discover content that could encourage them to purchase the channel after the trial is over. The strategies will probably require further analysis themselves, such as identifying shows that Come Agains watched and sending each of them a personalized email that highlights those shows. 
 
-An interesting next step would be to then evaluate these marketing strategies. If a portion of Newcomers are offered a free trial (the treatment group, which would be compared to a control group of Newcomers that are not offered a free trial), an analysis can be done to see how many of these Newcomers watch the channel, if they are upsold, if this affects their tenure on the streaming service in general, etc. This analysis could then be used to evaluate wether or not this is an effective strategy for these subscribers. It could also be used to see if there are some subscribers in the group that act very differently than the rest. If there are, perhaps this should be a new segment and the model should be tweaked.  
-
-The main consequence for this project is time. The data scientists that work on this project will have to delay other projects so this will have to be prioritized appropriately. However, this will help avoid penalties and will foster strong relationships with the premium channel partners.  
+The model and marketing strategies would then be evaluated and changed accordingly. If a portion of Newcomers are offered a free trial (the treatment group, which would be compared to a control group of Newcomers that are not offered a free trial), an analysis can be done to see how many of these Newcomers watch the channel, if they are upsold, if this affects their tenure on the streaming service in general, etc. This analysis could then be used to evaluate wether or not this is an effective strategy for these subscribers. It could also be used to see if there are some subscribers in the group that act very differently than the rest. If there are, perhaps this should be a new segment and the model should be tweaked.  
 
 
 ## An end.
+
+The client for this project will be business stakeholders, mainly in Marketing and Partnerships. A major role for these teams is acquiring subscribers and growing Partnerships with content providers. This segmentation will be a very useful tool for them to do both.
 
 Customer segmentation that focuses on premium channel upsell is instrumental to meeting minimum guarantees, strengthening business relationships, and giving subscribers more content to watch. This will keep subscribers invested in the streaming platform in the long run because they will watch more content on it. 
 
