@@ -1,18 +1,12 @@
-# My first cool idea {#slug-one}
+# Premium Channels: Identifying Prime Subscribers for Upsell {#content-packages}
 
-#### Keywords 
-
--TV, Upsell, Streaming
-
-## Identifying Prime Subscribers for Upsell
-
-## A beginning.
+## The Issue.
 
 Television streaming platforms that carry premium channels, such as HBO, Showtime, and Starz, are contractually obligated to sell a specific amount of premium channel packages. But how do these platforms meet these minimum guarantees without overspending on marketing? They have to be very targeted and focus on specific subscribers that are likely to add these packages. Streaming platforms need to meet minimum guarantees for premium add-ons without overspending on marketing. [@gajdhar_rfm_2017] 
 
 Meeting minimum guarantees is essential in order to not breach contracts, which is very important in itself, but it also helps strengthen relationships with premium channels, such as HBO. The streaming landscape is very competitive, and the more channels a platform can offer, the better competitive advantage they will have in this market. Everybody wants to watch the latest episode of Game of Thrones, so a platform that does not offer it will lose subscribers. It is increasingly crucial that a streaming platform maintains excellent relationships with all channels in order to survive in the industry. 
 
-## A middle.
+## The Awesome Solution.
 
 The platforms need to create a predictive model that assigns a probability of purchasing these add-ons to each subscriber. 
 
@@ -37,7 +31,7 @@ Each segment will need a targeted strategy and each strategy will likely be diff
 The model and marketing strategies would then be evaluated and changed accordingly. If a portion of Newcomers are offered a free trial (the treatment group, which would be compared to a control group of Newcomers that are not offered a free trial), an analysis can be done to see how many of these Newcomers watch the channel, if they are upsold, if this affects their tenure on the streaming service in general, etc. This analysis could then be used to evaluate wether or not this is an effective strategy for these subscribers. It could also be used to see if there are some subscribers in the group that act very differently than the rest. If there are, perhaps this should be a new segment and the model should be tweaked.  
 
 
-## An end.
+## The Clients.
 
 The client for this project will be business stakeholders, mainly in Marketing and Partnerships. A major role for these teams is acquiring subscribers and growing Partnerships with content providers. This segmentation will be a very useful tool for them to do both.
 

@@ -1,21 +1,24 @@
 # Hurricane Prediction
 
-#### Abstract {-}
-
-The Hurricane Forecast Improvement Program has not added an update to the strategic plan for improving hurricane forecasts since 2014. Data Science is essential to improving hurricane prediction and a team of Data Scientists can make vast improvements on current models. 
 
 #### Keywords {-}
 
 Weather, Climate, Hurricanes, Disasters
 
+
+#### Abstract {-}
+
+The Hurricane Forecast Improvement Program has not added an update to the strategic plan for improving hurricane forecasts since 2014. Data Science is essential to improving hurricane prediction and a team of Data Scientists can make vast improvements on current models. 
+
+
 ## The Windy Problem.
 
 Hurricane prediction deals with 2 major components of hurricanes; intensity and trajectory. There are also 2 major timeframes of hurricane prediction; short-term (within days) and long-term (within a season). While short-term prediction of hurricanes has improved drastically with recent technology, long-term prediction still needs a lot of work.   
 
-
 ## What Are We Going To Do About It?
 
 Drastically improve long-term Hurricane prediction models. Using as many weather and climate inputs as possible and building off of previous models, data scientists will add to models that will predict how many Hurricanes different parts of the country will have in the next season and how severe they will be. 
+
 
 The National Hurricane Center houses a wealth of data that is currently being used for hurricane modeling. Meteorologists, Statisticians, and Computer Scientists work with this data to build those models. Data scientists need to be involved on order to help with the accuracy, speed, and usability of these models. The Hurricane Forecast Improvement Program under NOAA needs to use the cross-functional skill sets of Data Scientists to see measurable improvements in predictive models.    
 
@@ -25,3 +28,4 @@ The National Hurricane Center houses a wealth of data that is currently being us
 Areas that are impacted by Hurricanes can plan better if they know what to expect. Local and Federal governments can invest the appropriate amount of money into Hurricane preparedness if they know how badly and how often they will be affected. While the occurrences of hurricanes is not easily controllable, the ability to accurately plan for these disastrous events could make a huge difference in the lives of many Americans.  
 
 Hurricane prediction has come a long way. Teams of Scientists, Statisticians, and Computer Programers have made incredible progress in the field. The next step is to bring Data Scientists into these projects because they will have a mixture of skill sets that will bring these works even further.
+
