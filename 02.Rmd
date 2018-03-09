@@ -13,7 +13,7 @@ The Hurricane Forecast Improvement Program has not added an update to the strate
 
 ## The Windy Problem.
 
-Hurricane prediction deals with 2 major components of hurricanes; intensity and trajectory. There are also 2 major timeframes of hurricane prediction; short-term (within days) and long-term (within a season). While short-term prediction of hurricanes has improved drastically with recent technology, long-term prediction still needs a lot of work.   
+Hurricane prediction deals with 2 major components of hurricanes; intensity and trajectory. There are also 2 major timeframes of hurricane prediction; short-term (within days) and long-term (within a season). [@noauthor_predicting_nodate] While short-term prediction of hurricanes has improved drastically with recent technology, long-term prediction still needs a lot of work.   
 
 ## What Are We Going To Do About It?
 
