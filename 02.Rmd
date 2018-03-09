@@ -2,7 +2,7 @@
 
 #### Abstract {-}
 
-
+The Hurricane Forecast Improvement Program has not added an update to the strategic plan for improving hurricane forecasts since 2014. Data Science is essential to improving hurricane prediction and a team of Data Scientists can make vast improvements on current models. 
 
 #### Keywords {-}
 
@@ -15,7 +15,7 @@ Hurricane prediction deals with 2 major components of hurricanes; intensity and 
 
 ## What Are We Going To Do About It?
 
-Drastically improve long-term Hurricane prediction models. Using as many weather and climate inputs as possible, data scientists will model how many Hurricanes different parts of the country will have in the next season and how severe they will be. 
+Drastically improve long-term Hurricane prediction models. Using as many weather and climate inputs as possible, data scientists will add to models that will predict how many Hurricanes different parts of the country will have in the next season and how severe they will be. 
 
 The National Hurricane Center houses a wealth of data that is currently being used for hurricane modeling. Meteorologists, Statisticians, and Computer Scientists work with this data to build those models. Data scientists need to be involved on order to help with the accuracy, speed, and usability of these models. The Hurricane Forecast Improvement Program under NOAA needs to use the cross-functional skill sets of Data Scientists to see measurable improvements in predictive models.    
 
