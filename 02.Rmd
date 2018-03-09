@@ -27,5 +27,5 @@ The National Hurricane Center houses a wealth of data that is currently being us
 
 Areas that are impacted by Hurricanes can plan better if they know what to expect. Local and Federal governments can invest the appropriate amount of money into Hurricane preparedness if they know how badly and how often they will be affected. While the occurrences of hurricanes is not easily controllable, the ability to accurately plan for these disastrous events could make a huge difference in the lives of many Americans.  
 
-Hurricane prediction has come a long way. Teams of Scientists, Statisticians, and Computer Programers have made incredible progress in the field. The next step is to bring Data Scientists into these projects because they will have a mixture of skill sets that will bring these works even further.
+Hurricane prediction has come a long way. Teams of Scientists, Statisticians, and Computer Programers have made incredible progress in the field. [@noauthor_tropical_nodate] The next step is to bring Data Scientists into these projects because they will have a mixture of skill sets that will bring these works even further.
 
