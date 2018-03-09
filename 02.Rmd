@@ -17,7 +17,7 @@ Hurricane prediction deals with 2 major components of hurricanes; intensity and 
 
 ## What Are We Going To Do About It?
 
-Drastically improve long-term Hurricane prediction models. Using as many weather and climate inputs as possible and building off of previous models, data scientists will add to models that will predict how many Hurricanes different parts of the country will have in the next season and how severe they will be. 
+Drastically improve long-term Hurricane prediction models. [@noauthor_nhc_nodate] Using as many weather and climate inputs as possible and building off of previous models, data scientists will add to models that will predict how many Hurricanes different parts of the country will have in the next season and how severe they will be. 
 
 
 The National Hurricane Center houses a wealth of data that is currently being used for hurricane modeling. Meteorologists, Statisticians, and Computer Scientists work with this data to build those models. Data scientists need to be involved on order to help with the accuracy, speed, and usability of these models. The Hurricane Forecast Improvement Program under NOAA needs to use the cross-functional skill sets of Data Scientists to see measurable improvements in predictive models.    
